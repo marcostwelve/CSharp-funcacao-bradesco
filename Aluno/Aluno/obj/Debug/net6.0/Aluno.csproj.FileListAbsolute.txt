@@ -1,0 +1,14 @@
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\bin\Debug\net6.0\Aluno.exe
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\bin\Debug\net6.0\Aluno.deps.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\bin\Debug\net6.0\Aluno.runtimeconfig.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\bin\Debug\net6.0\Aluno.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\bin\Debug\net6.0\Aluno.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\obj\Debug\net6.0\Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\obj\Debug\net6.0\Aluno.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\obj\Debug\net6.0\Aluno.AssemblyInfo.cs
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\obj\Debug\net6.0\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\obj\Debug\net6.0\Aluno.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\obj\Debug\net6.0\refint\Aluno.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\obj\Debug\net6.0\Aluno.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\obj\Debug\net6.0\Aluno.genruntimeconfig.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Aluno\Aluno\obj\Debug\net6.0\ref\Aluno.dll

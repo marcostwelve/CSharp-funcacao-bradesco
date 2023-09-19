@@ -1,0 +1,14 @@
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\bin\Debug\net6.0\ParametrosVariaveis.exe
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\bin\Debug\net6.0\ParametrosVariaveis.deps.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\bin\Debug\net6.0\ParametrosVariaveis.runtimeconfig.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\bin\Debug\net6.0\ParametrosVariaveis.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\bin\Debug\net6.0\ParametrosVariaveis.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.AssemblyInfo.cs
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\obj\Debug\net6.0\refint\ParametrosVariaveis.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.genruntimeconfig.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosVariaveis\ParametrosVariaveis\obj\Debug\net6.0\ref\ParametrosVariaveis.dll

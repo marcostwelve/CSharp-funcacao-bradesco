@@ -1,0 +1,14 @@
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.exe
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.deps.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.runtimeconfig.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.AssemblyInfo.cs
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\obj\Debug\net6.0\refint\MetodosEstaticos.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.genruntimeconfig.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\MetodosEstaticos\MetodosEstaticos\obj\Debug\net6.0\ref\MetodosEstaticos.dll

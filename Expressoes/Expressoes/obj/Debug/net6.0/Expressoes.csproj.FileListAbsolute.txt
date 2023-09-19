@@ -1,0 +1,14 @@
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\bin\Debug\net6.0\Expressoes.exe
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\bin\Debug\net6.0\Expressoes.deps.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\bin\Debug\net6.0\Expressoes.runtimeconfig.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\bin\Debug\net6.0\Expressoes.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\bin\Debug\net6.0\Expressoes.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\obj\Debug\net6.0\Expressoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\obj\Debug\net6.0\Expressoes.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\obj\Debug\net6.0\Expressoes.AssemblyInfo.cs
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\obj\Debug\net6.0\Expressoes.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\obj\Debug\net6.0\Expressoes.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\obj\Debug\net6.0\refint\Expressoes.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\obj\Debug\net6.0\Expressoes.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\obj\Debug\net6.0\Expressoes.genruntimeconfig.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Expressoes\Expressoes\obj\Debug\net6.0\ref\Expressoes.dll

@@ -1,0 +1,14 @@
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\bin\Debug\net6.0\Lambda.exe
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\bin\Debug\net6.0\Lambda.deps.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\bin\Debug\net6.0\Lambda.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\bin\Debug\net6.0\Lambda.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\obj\Debug\net6.0\Lambda.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\obj\Debug\net6.0\Lambda.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\Lambda\Lambda\obj\Debug\net6.0\ref\Lambda.dll

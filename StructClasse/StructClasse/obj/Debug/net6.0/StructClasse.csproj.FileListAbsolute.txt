@@ -1,0 +1,14 @@
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\bin\Debug\net6.0\StructClasse.exe
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\bin\Debug\net6.0\StructClasse.deps.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\bin\Debug\net6.0\StructClasse.runtimeconfig.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\bin\Debug\net6.0\StructClasse.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\bin\Debug\net6.0\StructClasse.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\obj\Debug\net6.0\StructClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\obj\Debug\net6.0\StructClasse.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\obj\Debug\net6.0\StructClasse.AssemblyInfo.cs
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\obj\Debug\net6.0\StructClasse.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\obj\Debug\net6.0\StructClasse.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\obj\Debug\net6.0\refint\StructClasse.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\obj\Debug\net6.0\StructClasse.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\obj\Debug\net6.0\StructClasse.genruntimeconfig.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\StructClasse\StructClasse\obj\Debug\net6.0\ref\StructClasse.dll

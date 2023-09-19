@@ -1,0 +1,14 @@
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\bin\Debug\net6.0\ParametrosPadroes.exe
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\bin\Debug\net6.0\ParametrosPadroes.deps.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\bin\Debug\net6.0\ParametrosPadroes.runtimeconfig.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\bin\Debug\net6.0\ParametrosPadroes.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\bin\Debug\net6.0\ParametrosPadroes.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\obj\Debug\net6.0\ParametrosPadroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\obj\Debug\net6.0\ParametrosPadroes.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\obj\Debug\net6.0\ParametrosPadroes.AssemblyInfo.cs
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\obj\Debug\net6.0\ParametrosPadroes.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\obj\Debug\net6.0\ParametrosPadroes.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\obj\Debug\net6.0\refint\ParametrosPadroes.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\obj\Debug\net6.0\ParametrosPadroes.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\obj\Debug\net6.0\ParametrosPadroes.genruntimeconfig.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPadroes\ParametrosPadroes\obj\Debug\net6.0\ref\ParametrosPadroes.dll

@@ -1,0 +1,14 @@
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\bin\Debug\net6.0\ParametrosPorReferencia.exe
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\bin\Debug\net6.0\ParametrosPorReferencia.deps.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\bin\Debug\net6.0\ParametrosPorReferencia.runtimeconfig.json
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\bin\Debug\net6.0\ParametrosPorReferencia.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\bin\Debug\net6.0\ParametrosPorReferencia.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\obj\Debug\net6.0\ParametrosPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\obj\Debug\net6.0\ParametrosPorReferencia.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\obj\Debug\net6.0\ParametrosPorReferencia.AssemblyInfo.cs
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\obj\Debug\net6.0\ParametrosPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\obj\Debug\net6.0\ParametrosPorReferencia.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\obj\Debug\net6.0\refint\ParametrosPorReferencia.dll
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\obj\Debug\net6.0\ParametrosPorReferencia.pdb
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\obj\Debug\net6.0\ParametrosPorReferencia.genruntimeconfig.cache
+C:\Users\marco\Downloads\Projetos\C#\FundaçãoBradesco\ParametrosPorReferencia\ParametrosPorReferencia\obj\Debug\net6.0\ref\ParametrosPorReferencia.dll
